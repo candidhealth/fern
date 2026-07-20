@@ -12,6 +12,7 @@ set -e
 generators=(
     ruby-sdk-v2
     python-sdk
+    fastapi
     openapi
     java-sdk
     ts-sdk
