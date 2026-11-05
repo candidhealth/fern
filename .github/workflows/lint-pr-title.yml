@@ -42,6 +42,7 @@ jobs:
             seed
             ci
             lint
+            fastapi
             openapi
             deps
             deps-dev
